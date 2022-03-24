@@ -1,4 +1,4 @@
-package id.ac.polbeng.Febrian_Saputra.test_kelas
+package id.ac.polbeng.Febrian_Saputra.test_kelas.RPL
 
 class Greeter {
     var text: String = ""
